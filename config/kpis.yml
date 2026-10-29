@@ -1,0 +1,129 @@
+# KPI dictionary: the single source of truth for every number in the report.
+# Each KPI is a SQL expression evaluated over one reporting period (:start to :end, inclusive).
+# direction: higher_is_better | lower_is_better.  amber_band: how far from target still counts as Amber.
+
+reporting:
+  period_days: 14
+  team_aliases:                 # standardise team names across systems
+    "Customer Support": Support
+    "CS": Support
+    "delivery": Delivery
+    "Delivery Team": Delivery
+
+kpis:
+  - id: tickets_resolved
+    team: Support
+    name: Tickets resolved
+    definition: Tickets closed in the period, regardless of when they were opened.
+    sql: "select count(*) from tickets where closed_at::date between :start and :end"
+    format: int
+    target: null
+    direction: higher_is_better
+
+  - id: sla_attainment
+    team: Support
+    name: SLA attainment
+    definition: Share of tickets closed in the period that were resolved within the SLA for their priority (P1 4h, P2 24h, P3 72h).
+    sql: >
+      select avg(case when resolution_hours <= sla_hours then 1.0 else 0 end)
+      from tickets where closed_at::date between :start and :end
+    format: pct
+    target: 0.90
+    amber_band: 0.05
+    direction: higher_is_better
+
+  - id: median_resolution_hours
+    team: Support
+    name: Median resolution time (hours)
+    definition: Median hours from open to close for tickets closed in the period.
+    sql: "select median(resolution_hours) from tickets where closed_at::date between :start and :end"
+    format: dec1
+    target: 24
+    amber_band: 6
+    direction: lower_is_better
+
+  - id: first_contact_resolution
+    team: Support
+    name: First-contact resolution
+    definition: Share of tickets closed in the period that needed only one customer contact.
+    sql: >
+      select avg(case when contacts_to_resolve = 1 then 1.0 else 0 end)
+      from tickets where closed_at::date between :start and :end
+    format: pct
+    target: 0.70
+    amber_band: 0.05
+    direction: higher_is_better
+
+  - id: open_backlog
+    team: Support
+    name: Open backlog at period end
+    definition: Tickets opened on or before the period end that were still open at the period end.
+    sql: >
+      select count(*) from tickets
+      where opened_at::date <= :end and (closed_at is null or closed_at::date > :end)
+    format: int
+    target: null
+    direction: lower_is_better
+
+  - id: on_time_delivery
+    team: Delivery
+    name: On-time delivery
+    definition: Share of tasks completed in the period on or before their due date.
+    sql: >
+      select avg(case when completed <= due then 1.0 else 0 end)
+      from tasks where completed between :start and :end
+    format: pct
+    target: 0.85
+    amber_band: 0.10
+    direction: higher_is_better
+
+  - id: tasks_completed
+    team: Delivery
+    name: Tasks completed
+    definition: Tasks with a completion date in the period.
+    sql: "select count(*) from tasks where completed between :start and :end"
+    format: int
+    target: null
+    direction: higher_is_better
+
+  - id: avg_days_late
+    team: Delivery
+    name: Average days late (late tasks)
+    definition: For tasks completed late in the period, the average number of days past due.
+    sql: >
+      select avg(datediff('day', due, completed))
+      from tasks where completed between :start and :end and completed > due
+    format: dec1
+    target: 2
+    amber_band: 1
+    direction: lower_is_better
+
+  - id: rework_rate
+    team: Delivery
+    name: Rework rate
+    definition: Share of tasks completed in the period that were flagged as rework.
+    sql: "select avg(case when rework then 1.0 else 0 end) from tasks where completed between :start and :end"
+    format: pct
+    target: 0.08
+    amber_band: 0.03
+    direction: lower_is_better
+
+  - id: support_utilisation
+    team: Support
+    name: Utilisation
+    definition: Billable hours / hours logged by the Support team in the period.
+    sql: "select sum(billable_hours) / sum(hours_logged) from timesheets where team = 'Support' and work_date between :start and :end"
+    format: pct
+    target: 0.78
+    amber_band: 0.04
+    direction: higher_is_better
+
+  - id: delivery_utilisation
+    team: Delivery
+    name: Utilisation
+    definition: Billable hours / hours logged by the Delivery team in the period.
+    sql: "select sum(billable_hours) / sum(hours_logged) from timesheets where team = 'Delivery' and work_date between :start and :end"
+    format: pct
+    target: 0.78
+    amber_band: 0.04
+    direction: higher_is_better

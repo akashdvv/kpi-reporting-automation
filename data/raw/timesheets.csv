@@ -1,0 +1,1071 @@
+date,employee_id,team_name,hours_logged,billable_hours
+06-Jul-2026,S01,CS,8.0,6.9
+06-Jul-2026,S02,CS,8.0,5.8
+06-Jul-2026,S03,CS,8.0,6.2
+06-Jul-2026,S05,CS,8.0,6.4
+06-Jul-2026,S06,CS,8.0,6.3
+06-Jul-2026,S07,CS,8.0,6.8
+06-Jul-2026,S08,CS,8.0,7.0
+06-Jul-2026,D01,Delivery Team,8.0,5.7
+06-Jul-2026,D02,Delivery Team,8.0,6.8
+06-Jul-2026,D03,Delivery Team,8.0,6.6
+06-Jul-2026,D04,Delivery Team,8.0,6.9
+06-Jul-2026,D05,Delivery Team,8.0,6.4
+06-Jul-2026,D06,Delivery Team,8.0,6.2
+07-Jul-2026,S01,CS,8.0,6.9
+07-Jul-2026,S02,CS,8.0,7.0
+07-Jul-2026,S03,CS,8.0,5.8
+07-Jul-2026,S05,CS,8.0,6.7
+07-Jul-2026,S06,CS,8.0,6.3
+07-Jul-2026,S07,CS,8.0,6.7
+07-Jul-2026,S08,CS,8.0,6.9
+07-Jul-2026,D01,Delivery Team,8.0,6.0
+07-Jul-2026,D02,Delivery Team,8.0,6.1
+07-Jul-2026,D03,Delivery Team,8.0,6.1
+07-Jul-2026,D04,Delivery Team,8.0,6.9
+07-Jul-2026,D05,Delivery Team,8.0,6.8
+07-Jul-2026,D06,Delivery Team,8.0,6.4
+08-Jul-2026,S01,CS,8.0,6.2
+08-Jul-2026,S02,CS,8.0,5.8
+08-Jul-2026,S03,CS,8.0,6.5
+08-Jul-2026,S04,CS,8.0,6.7
+08-Jul-2026,S05,CS,8.0,6.9
+08-Jul-2026,S06,CS,8.0,6.4
+08-Jul-2026,S07,CS,8.0,6.0
+08-Jul-2026,S08,CS,8.0,6.8
+08-Jul-2026,D01,Delivery Team,8.0,6.3
+08-Jul-2026,D02,Delivery Team,8.0,7.0
+08-Jul-2026,D03,Delivery Team,8.0,5.8
+08-Jul-2026,D04,Delivery Team,8.0,6.6
+08-Jul-2026,D05,Delivery Team,8.0,6.0
+08-Jul-2026,D06,Delivery Team,8.0,6.4
+09-Jul-2026,S01,CS,8.0,6.5
+09-Jul-2026,S02,CS,8.0,6.4
+09-Jul-2026,S03,CS,8.0,6.9
+09-Jul-2026,S04,CS,8.0,6.8
+09-Jul-2026,S05,CS,8.0,6.8
+09-Jul-2026,S06,CS,8.0,6.6
+09-Jul-2026,S07,CS,8.0,6.0
+09-Jul-2026,S08,CS,8.0,6.3
+09-Jul-2026,D01,Delivery Team,8.0,7.0
+09-Jul-2026,D03,Delivery Team,8.0,5.8
+09-Jul-2026,D04,Delivery Team,8.0,7.0
+09-Jul-2026,D05,Delivery Team,8.0,6.3
+09-Jul-2026,D06,Delivery Team,8.0,6.5
+10-Jul-2026,S01,CS,8.0,6.1
+10-Jul-2026,S02,CS,8.0,6.9
+10-Jul-2026,S03,CS,8.0,7.0
+10-Jul-2026,S04,CS,8.0,5.8
+10-Jul-2026,S05,CS,8.0,5.7
+10-Jul-2026,S06,CS,8.0,6.3
+10-Jul-2026,S07,CS,8.0,6.3
+10-Jul-2026,S08,CS,8.0,6.2
+10-Jul-2026,D01,Delivery Team,8.0,6.7
+10-Jul-2026,D02,Delivery Team,8.0,6.6
+10-Jul-2026,D03,Delivery Team,8.0,6.4
+10-Jul-2026,D04,Delivery Team,8.0,5.9
+10-Jul-2026,D05,Delivery Team,8.0,6.7
+10-Jul-2026,D06,Delivery Team,8.0,6.6
+13-Jul-2026,S01,CS,8.0,6.4
+13-Jul-2026,S02,CS,8.0,7.0
+13-Jul-2026,S03,CS,8.0,6.9
+13-Jul-2026,S04,CS,8.0,5.8
+13-Jul-2026,S05,CS,8.0,6.0
+13-Jul-2026,S06,CS,8.0,5.8
+13-Jul-2026,S07,CS,8.0,6.3
+13-Jul-2026,S08,CS,8.0,5.9
+13-Jul-2026,D01,Delivery Team,8.0,5.7
+13-Jul-2026,D02,Delivery Team,8.0,6.2
+13-Jul-2026,D03,Delivery Team,8.0,7.0
+13-Jul-2026,D04,Delivery Team,8.0,5.9
+13-Jul-2026,D05,Delivery Team,8.0,6.8
+13-Jul-2026,D06,Delivery Team,8.0,6.4
+14-Jul-2026,S01,CS,8.0,7.0
+14-Jul-2026,S02,CS,8.0,5.6
+14-Jul-2026,S03,CS,8.0,6.8
+14-Jul-2026,S05,CS,8.0,5.8
+14-Jul-2026,S06,CS,8.0,7.0
+14-Jul-2026,S07,CS,8.0,6.4
+14-Jul-2026,S08,CS,8.0,6.0
+14-Jul-2026,D01,Delivery Team,8.0,6.1
+14-Jul-2026,D02,Delivery Team,8.0,6.5
+14-Jul-2026,D03,Delivery Team,8.0,6.8
+14-Jul-2026,D04,Delivery Team,8.0,6.1
+14-Jul-2026,D05,Delivery Team,8.0,6.5
+14-Jul-2026,D06,Delivery Team,8.0,6.8
+15-Jul-2026,S01,CS,8.0,6.5
+15-Jul-2026,S02,CS,8.0,6.5
+15-Jul-2026,S03,CS,8.0,5.9
+15-Jul-2026,S04,CS,8.0,6.6
+15-Jul-2026,S05,CS,8.0,6.6
+15-Jul-2026,S06,CS,8.0,6.5
+15-Jul-2026,S07,CS,8.0,5.6
+15-Jul-2026,D01,Delivery Team,8.0,5.9
+15-Jul-2026,D02,Delivery Team,8.0,6.8
+15-Jul-2026,D03,Delivery Team,8.0,6.1
+15-Jul-2026,D04,Delivery Team,8.0,5.9
+15-Jul-2026,D05,Delivery Team,8.0,5.7
+15-Jul-2026,D06,Delivery Team,8.0,6.7
+16-Jul-2026,S01,CS,8.0,6.8
+16-Jul-2026,S02,CS,8.0,6.4
+16-Jul-2026,S03,CS,8.0,6.4
+16-Jul-2026,S04,CS,8.0,6.6
+16-Jul-2026,S05,CS,8.0,6.8
+16-Jul-2026,S06,CS,8.0,5.8
+16-Jul-2026,S07,CS,8.0,6.1
+16-Jul-2026,S08,CS,8.0,6.1
+16-Jul-2026,D01,Delivery Team,8.0,6.3
+16-Jul-2026,D02,Delivery Team,8.0,6.4
+16-Jul-2026,D03,Delivery Team,8.0,6.9
+16-Jul-2026,D04,Delivery Team,8.0,6.9
+16-Jul-2026,D05,Delivery Team,8.0,5.8
+16-Jul-2026,D06,Delivery Team,8.0,5.6
+17-Jul-2026,S01,CS,8.0,5.9
+17-Jul-2026,S02,CS,8.0,6.0
+17-Jul-2026,S04,CS,8.0,6.4
+17-Jul-2026,S05,CS,8.0,7.0
+17-Jul-2026,S06,CS,8.0,6.0
+17-Jul-2026,S07,CS,8.0,5.7
+17-Jul-2026,S08,CS,8.0,6.3
+17-Jul-2026,D01,Delivery Team,8.0,6.0
+17-Jul-2026,D02,Delivery Team,8.0,6.7
+17-Jul-2026,D03,Delivery Team,8.0,5.7
+17-Jul-2026,D04,Delivery Team,8.0,6.0
+17-Jul-2026,D05,Delivery Team,8.0,5.9
+17-Jul-2026,D06,Delivery Team,8.0,6.5
+20-Jul-2026,S01,CS,8.0,6.3
+20-Jul-2026,S02,CS,8.0,6.9
+20-Jul-2026,S03,CS,8.0,6.1
+20-Jul-2026,S04,CS,8.0,6.1
+20-Jul-2026,S05,CS,8.0,5.8
+20-Jul-2026,S06,CS,8.0,5.7
+20-Jul-2026,S07,CS,8.0,6.7
+20-Jul-2026,S08,CS,8.0,6.0
+20-Jul-2026,D01,Delivery Team,8.0,6.5
+20-Jul-2026,D02,Delivery Team,8.0,5.6
+20-Jul-2026,D03,Delivery Team,8.0,6.7
+20-Jul-2026,D04,Delivery Team,8.0,5.9
+20-Jul-2026,D05,Delivery Team,8.0,6.0
+20-Jul-2026,D06,Delivery Team,8.0,5.8
+21-Jul-2026,S02,CS,8.0,6.9
+21-Jul-2026,S03,CS,8.0,5.9
+21-Jul-2026,S04,CS,8.0,5.9
+21-Jul-2026,S05,CS,8.0,6.2
+21-Jul-2026,S06,CS,8.0,5.9
+21-Jul-2026,S07,CS,8.0,6.0
+21-Jul-2026,S08,CS,8.0,6.3
+21-Jul-2026,D01,Delivery Team,8.0,6.9
+21-Jul-2026,D02,Delivery Team,8.0,6.3
+21-Jul-2026,D03,Delivery Team,8.0,6.5
+21-Jul-2026,D04,Delivery Team,8.0,7.0
+21-Jul-2026,D05,Delivery Team,8.0,6.1
+21-Jul-2026,D06,Delivery Team,8.0,5.8
+22-Jul-2026,S01,CS,8.0,6.7
+22-Jul-2026,S02,CS,8.0,6.7
+22-Jul-2026,S03,CS,8.0,6.7
+22-Jul-2026,S04,CS,8.0,6.8
+22-Jul-2026,S05,CS,8.0,6.7
+22-Jul-2026,S06,CS,8.0,5.8
+22-Jul-2026,S07,CS,8.0,7.0
+22-Jul-2026,S08,CS,8.0,6.1
+22-Jul-2026,D01,Delivery Team,8.0,6.3
+22-Jul-2026,D02,Delivery Team,8.0,5.9
+22-Jul-2026,D03,Delivery Team,8.0,6.8
+22-Jul-2026,D04,Delivery Team,8.0,5.8
+22-Jul-2026,D05,Delivery Team,8.0,6.6
+22-Jul-2026,D06,Delivery Team,8.0,6.6
+23-Jul-2026,S01,CS,8.0,5.6
+23-Jul-2026,S02,CS,8.0,6.3
+23-Jul-2026,S03,CS,8.0,6.3
+23-Jul-2026,S04,CS,8.0,6.5
+23-Jul-2026,S06,CS,8.0,5.8
+23-Jul-2026,S07,CS,8.0,6.0
+23-Jul-2026,S08,CS,8.0,6.1
+23-Jul-2026,D01,Delivery Team,8.0,6.5
+23-Jul-2026,D02,Delivery Team,8.0,6.5
+23-Jul-2026,D03,Delivery Team,8.0,5.8
+23-Jul-2026,D04,Delivery Team,8.0,6.5
+23-Jul-2026,D05,Delivery Team,8.0,5.7
+23-Jul-2026,D06,Delivery Team,8.0,5.8
+24-Jul-2026,S01,CS,8.0,6.0
+24-Jul-2026,S02,CS,8.0,5.8
+24-Jul-2026,S03,CS,8.0,6.3
+24-Jul-2026,S04,CS,8.0,5.6
+24-Jul-2026,S05,CS,8.0,5.7
+24-Jul-2026,S07,CS,8.0,6.0
+24-Jul-2026,S08,CS,8.0,6.8
+24-Jul-2026,D01,Delivery Team,8.0,6.2
+24-Jul-2026,D02,Delivery Team,8.0,5.6
+24-Jul-2026,D03,Delivery Team,8.0,6.8
+24-Jul-2026,D04,Delivery Team,8.0,6.9
+24-Jul-2026,D05,Delivery Team,8.0,7.0
+24-Jul-2026,D06,Delivery Team,8.0,5.7
+27-Jul-2026,S01,CS,8.0,5.8
+27-Jul-2026,S02,CS,8.0,7.0
+27-Jul-2026,S03,CS,8.0,5.9
+27-Jul-2026,S04,CS,8.0,6.0
+27-Jul-2026,S05,CS,8.0,5.7
+27-Jul-2026,S06,CS,8.0,6.7
+27-Jul-2026,S07,CS,8.0,5.9
+27-Jul-2026,S08,CS,8.0,6.3
+27-Jul-2026,D01,Delivery Team,8.0,6.4
+27-Jul-2026,D03,Delivery Team,8.0,5.8
+27-Jul-2026,D04,Delivery Team,8.0,6.5
+27-Jul-2026,D05,Delivery Team,8.0,5.9
+27-Jul-2026,D06,Delivery Team,8.0,6.1
+28-Jul-2026,S01,CS,8.0,6.9
+28-Jul-2026,S02,CS,8.0,6.1
+28-Jul-2026,S03,CS,8.0,6.7
+28-Jul-2026,S04,CS,8.0,6.1
+28-Jul-2026,S05,CS,8.0,6.5
+28-Jul-2026,S06,CS,8.0,6.4
+28-Jul-2026,S07,CS,8.0,6.7
+28-Jul-2026,D01,Delivery Team,8.0,6.1
+28-Jul-2026,D02,Delivery Team,8.0,7.0
+28-Jul-2026,D03,Delivery Team,8.0,5.8
+28-Jul-2026,D04,Delivery Team,8.0,6.0
+28-Jul-2026,D05,Delivery Team,8.0,6.8
+28-Jul-2026,D06,Delivery Team,8.0,6.4
+29-Jul-2026,S01,CS,8.0,6.9
+29-Jul-2026,S02,CS,8.0,6.0
+29-Jul-2026,S03,CS,8.0,6.1
+29-Jul-2026,S04,CS,8.0,6.0
+29-Jul-2026,S05,CS,8.0,7.0
+29-Jul-2026,S06,CS,8.0,7.0
+29-Jul-2026,S07,CS,8.0,5.7
+29-Jul-2026,S08,CS,8.0,6.0
+29-Jul-2026,D01,Delivery Team,8.0,5.6
+29-Jul-2026,D02,Delivery Team,8.0,6.9
+29-Jul-2026,D03,Delivery Team,8.0,6.5
+29-Jul-2026,D04,Delivery Team,8.0,6.5
+29-Jul-2026,D06,Delivery Team,8.0,5.9
+30-Jul-2026,S01,CS,8.0,6.2
+30-Jul-2026,S02,CS,8.0,6.8
+30-Jul-2026,S03,CS,8.0,6.4
+30-Jul-2026,S04,CS,8.0,6.8
+30-Jul-2026,S05,CS,8.0,5.8
+30-Jul-2026,S07,CS,8.0,5.8
+30-Jul-2026,S08,CS,8.0,6.8
+30-Jul-2026,D02,Delivery Team,8.0,6.7
+30-Jul-2026,D03,Delivery Team,8.0,6.4
+30-Jul-2026,D04,Delivery Team,8.0,6.0
+30-Jul-2026,D05,Delivery Team,8.0,6.5
+30-Jul-2026,D06,Delivery Team,8.0,6.5
+31-Jul-2026,S01,CS,8.0,6.1
+31-Jul-2026,S02,CS,8.0,6.1
+31-Jul-2026,S03,CS,8.0,6.2
+31-Jul-2026,S04,CS,8.0,5.9
+31-Jul-2026,S05,CS,8.0,6.4
+31-Jul-2026,S06,CS,8.0,6.4
+31-Jul-2026,S07,CS,8.0,5.9
+31-Jul-2026,S08,CS,8.0,6.4
+31-Jul-2026,D01,Delivery Team,8.0,6.1
+31-Jul-2026,D02,Delivery Team,8.0,6.8
+31-Jul-2026,D03,Delivery Team,8.0,7.0
+31-Jul-2026,D04,Delivery Team,8.0,6.6
+31-Jul-2026,D05,Delivery Team,8.0,5.7
+31-Jul-2026,D06,Delivery Team,8.0,5.7
+03-Aug-2026,S01,CS,8.0,6.0
+03-Aug-2026,S02,CS,8.0,6.5
+03-Aug-2026,S04,CS,8.0,6.0
+03-Aug-2026,S05,CS,8.0,7.0
+03-Aug-2026,S06,CS,8.0,5.9
+03-Aug-2026,S07,CS,8.0,5.8
+03-Aug-2026,S08,CS,8.0,6.7
+03-Aug-2026,D01,Delivery Team,8.0,6.1
+03-Aug-2026,D02,Delivery Team,8.0,7.0
+03-Aug-2026,D03,Delivery Team,8.0,7.0
+03-Aug-2026,D04,Delivery Team,8.0,6.2
+03-Aug-2026,D05,Delivery Team,8.0,5.8
+03-Aug-2026,D06,Delivery Team,8.0,6.4
+04-Aug-2026,S01,CS,8.0,5.9
+04-Aug-2026,S02,CS,8.0,6.4
+04-Aug-2026,S03,CS,8.0,6.4
+04-Aug-2026,S04,CS,8.0,6.4
+04-Aug-2026,S05,CS,8.0,6.5
+04-Aug-2026,S06,CS,8.0,6.0
+04-Aug-2026,S07,CS,8.0,6.6
+04-Aug-2026,S08,CS,8.0,6.8
+04-Aug-2026,D01,Delivery Team,8.0,6.3
+04-Aug-2026,D02,Delivery Team,8.0,6.1
+04-Aug-2026,D03,Delivery Team,8.0,5.9
+04-Aug-2026,D05,Delivery Team,8.0,5.7
+04-Aug-2026,D06,Delivery Team,8.0,5.8
+05-Aug-2026,S01,CS,8.0,6.4
+05-Aug-2026,S02,CS,8.0,7.0
+05-Aug-2026,S03,CS,8.0,6.3
+05-Aug-2026,S04,CS,8.0,6.9
+05-Aug-2026,S05,CS,8.0,6.6
+05-Aug-2026,S06,CS,8.0,6.5
+05-Aug-2026,S08,CS,8.0,6.4
+05-Aug-2026,D01,Delivery Team,8.0,5.8
+05-Aug-2026,D02,Delivery Team,8.0,6.4
+05-Aug-2026,D03,Delivery Team,8.0,5.8
+05-Aug-2026,D04,Delivery Team,8.0,6.9
+05-Aug-2026,D06,Delivery Team,8.0,6.2
+06-Aug-2026,S01,CS,8.0,5.9
+06-Aug-2026,S02,CS,8.0,5.7
+06-Aug-2026,S03,CS,8.0,5.8
+06-Aug-2026,S04,CS,8.0,6.7
+06-Aug-2026,S05,CS,8.0,5.9
+06-Aug-2026,S06,CS,8.0,5.8
+06-Aug-2026,S07,CS,8.0,6.8
+06-Aug-2026,S08,CS,8.0,6.6
+06-Aug-2026,D01,Delivery Team,8.0,6.4
+06-Aug-2026,D02,Delivery Team,8.0,6.7
+06-Aug-2026,D03,Delivery Team,8.0,5.6
+06-Aug-2026,D04,Delivery Team,8.0,6.1
+06-Aug-2026,D05,Delivery Team,8.0,7.0
+07-Aug-2026,S01,CS,8.0,6.1
+07-Aug-2026,S02,CS,8.0,6.6
+07-Aug-2026,S03,CS,8.0,5.9
+07-Aug-2026,S04,CS,8.0,6.2
+07-Aug-2026,S05,CS,8.0,6.8
+07-Aug-2026,S06,CS,8.0,7.0
+07-Aug-2026,S07,CS,8.0,5.9
+07-Aug-2026,S08,CS,8.0,6.9
+07-Aug-2026,D01,Delivery Team,8.0,5.7
+07-Aug-2026,D02,Delivery Team,8.0,5.7
+07-Aug-2026,D03,Delivery Team,8.0,5.8
+07-Aug-2026,D04,Delivery Team,8.0,6.4
+07-Aug-2026,D05,Delivery Team,8.0,5.7
+07-Aug-2026,D06,Delivery Team,8.0,6.5
+10-Aug-2026,S01,CS,8.0,6.1
+10-Aug-2026,S03,CS,8.0,6.9
+10-Aug-2026,S04,CS,8.0,6.7
+10-Aug-2026,S05,CS,8.0,7.0
+10-Aug-2026,S06,CS,8.0,5.7
+10-Aug-2026,S07,CS,8.0,6.2
+10-Aug-2026,S08,CS,8.0,6.1
+10-Aug-2026,D01,Delivery Team,8.0,6.2
+10-Aug-2026,D02,Delivery Team,8.0,6.1
+10-Aug-2026,D03,Delivery Team,8.0,5.8
+10-Aug-2026,D04,Delivery Team,8.0,6.3
+10-Aug-2026,D05,Delivery Team,8.0,6.0
+10-Aug-2026,D06,Delivery Team,8.0,5.7
+11-Aug-2026,S01,CS,8.0,6.4
+11-Aug-2026,S02,CS,8.0,7.0
+11-Aug-2026,S03,CS,8.0,6.7
+11-Aug-2026,S04,CS,8.0,6.0
+11-Aug-2026,S05,CS,8.0,6.0
+11-Aug-2026,S06,CS,8.0,5.9
+11-Aug-2026,S07,CS,8.0,5.9
+11-Aug-2026,S08,CS,8.0,5.6
+11-Aug-2026,D01,Delivery Team,8.0,6.0
+11-Aug-2026,D02,Delivery Team,8.0,6.5
+11-Aug-2026,D03,Delivery Team,8.0,7.0
+11-Aug-2026,D04,Delivery Team,8.0,5.7
+11-Aug-2026,D05,Delivery Team,8.0,6.0
+11-Aug-2026,D06,Delivery Team,8.0,6.6
+12-Aug-2026,S01,CS,8.0,6.8
+12-Aug-2026,S02,CS,8.0,7.0
+12-Aug-2026,S03,CS,8.0,7.0
+12-Aug-2026,S04,CS,8.0,5.9
+12-Aug-2026,S05,CS,8.0,7.0
+12-Aug-2026,S06,CS,8.0,5.8
+12-Aug-2026,S07,CS,8.0,6.6
+12-Aug-2026,S08,CS,8.0,6.2
+12-Aug-2026,D01,Delivery Team,8.0,6.3
+12-Aug-2026,D02,Delivery Team,8.0,6.2
+12-Aug-2026,D03,Delivery Team,8.0,5.8
+12-Aug-2026,D04,Delivery Team,8.0,6.1
+12-Aug-2026,D05,Delivery Team,8.0,5.9
+12-Aug-2026,D06,Delivery Team,8.0,5.6
+13-Aug-2026,S01,CS,8.0,6.9
+13-Aug-2026,S02,CS,8.0,6.5
+13-Aug-2026,S03,CS,8.0,6.1
+13-Aug-2026,S04,CS,8.0,5.8
+13-Aug-2026,S05,CS,8.0,6.6
+13-Aug-2026,S06,CS,8.0,7.0
+13-Aug-2026,S07,CS,8.0,6.0
+13-Aug-2026,S08,CS,8.0,6.2
+13-Aug-2026,D01,Delivery Team,8.0,7.0
+13-Aug-2026,D02,Delivery Team,8.0,6.1
+13-Aug-2026,D03,Delivery Team,8.0,6.7
+13-Aug-2026,D04,Delivery Team,8.0,5.7
+13-Aug-2026,D05,Delivery Team,8.0,6.9
+13-Aug-2026,D06,Delivery Team,8.0,6.8
+14-Aug-2026,S01,CS,8.0,7.0
+14-Aug-2026,S02,CS,8.0,5.7
+14-Aug-2026,S03,CS,8.0,6.5
+14-Aug-2026,S04,CS,8.0,6.8
+14-Aug-2026,S05,CS,8.0,6.8
+14-Aug-2026,S06,CS,8.0,6.3
+14-Aug-2026,S07,CS,8.0,6.3
+14-Aug-2026,S08,CS,8.0,6.3
+14-Aug-2026,D01,Delivery Team,8.0,6.2
+14-Aug-2026,D02,Delivery Team,8.0,6.5
+14-Aug-2026,D03,Delivery Team,8.0,5.9
+14-Aug-2026,D04,Delivery Team,8.0,6.3
+14-Aug-2026,D05,Delivery Team,8.0,5.9
+14-Aug-2026,D06,Delivery Team,8.0,6.1
+17-Aug-2026,S01,CS,8.0,6.6
+17-Aug-2026,S02,CS,8.0,6.2
+17-Aug-2026,S03,CS,8.0,6.4
+17-Aug-2026,S04,CS,8.0,6.3
+17-Aug-2026,S05,CS,8.0,6.3
+17-Aug-2026,S06,CS,8.0,6.4
+17-Aug-2026,S07,CS,8.0,6.2
+17-Aug-2026,S08,CS,8.0,6.8
+17-Aug-2026,D01,Delivery Team,8.0,6.6
+17-Aug-2026,D02,Delivery Team,8.0,7.0
+17-Aug-2026,D03,Delivery Team,8.0,6.9
+17-Aug-2026,D04,Delivery Team,8.0,6.6
+17-Aug-2026,D05,Delivery Team,8.0,6.8
+17-Aug-2026,D06,Delivery Team,8.0,6.0
+18-Aug-2026,S02,CS,8.0,6.7
+18-Aug-2026,S03,CS,8.0,6.4
+18-Aug-2026,S05,CS,8.0,5.7
+18-Aug-2026,S06,CS,8.0,5.6
+18-Aug-2026,S07,CS,8.0,5.7
+18-Aug-2026,S08,CS,8.0,6.1
+18-Aug-2026,D01,Delivery Team,8.0,6.6
+18-Aug-2026,D02,Delivery Team,8.0,6.5
+18-Aug-2026,D03,Delivery Team,8.0,6.0
+18-Aug-2026,D04,Delivery Team,8.0,6.5
+18-Aug-2026,D06,Delivery Team,8.0,6.3
+19-Aug-2026,S01,CS,8.0,5.7
+19-Aug-2026,S02,CS,8.0,6.6
+19-Aug-2026,S03,CS,8.0,6.9
+19-Aug-2026,S04,CS,8.0,6.4
+19-Aug-2026,S05,CS,8.0,5.9
+19-Aug-2026,S06,CS,8.0,5.6
+19-Aug-2026,S08,CS,8.0,6.1
+19-Aug-2026,D01,Delivery Team,8.0,6.9
+19-Aug-2026,D02,Delivery Team,8.0,6.5
+19-Aug-2026,D03,Delivery Team,8.0,6.3
+19-Aug-2026,D04,Delivery Team,8.0,6.7
+19-Aug-2026,D05,Delivery Team,8.0,6.2
+19-Aug-2026,D06,Delivery Team,8.0,5.9
+20-Aug-2026,S01,CS,8.0,5.8
+20-Aug-2026,S02,CS,8.0,6.5
+20-Aug-2026,S03,CS,8.0,6.7
+20-Aug-2026,S04,CS,8.0,5.7
+20-Aug-2026,S05,CS,8.0,6.5
+20-Aug-2026,S06,CS,8.0,7.0
+20-Aug-2026,S07,CS,8.0,7.0
+20-Aug-2026,S08,CS,8.0,6.6
+20-Aug-2026,D01,Delivery Team,8.0,6.0
+20-Aug-2026,D02,Delivery Team,8.0,5.8
+20-Aug-2026,D04,Delivery Team,8.0,6.2
+20-Aug-2026,D05,Delivery Team,8.0,6.1
+20-Aug-2026,D06,Delivery Team,8.0,6.9
+21-Aug-2026,S01,CS,8.0,5.8
+21-Aug-2026,S02,CS,8.0,6.5
+21-Aug-2026,S03,CS,8.0,6.9
+21-Aug-2026,S04,CS,8.0,6.4
+21-Aug-2026,S05,CS,8.0,6.0
+21-Aug-2026,S06,CS,8.0,6.3
+21-Aug-2026,S07,CS,8.0,5.6
+21-Aug-2026,S08,CS,8.0,5.9
+21-Aug-2026,D01,Delivery Team,8.0,6.4
+21-Aug-2026,D02,Delivery Team,8.0,6.9
+21-Aug-2026,D03,Delivery Team,8.0,6.5
+21-Aug-2026,D04,Delivery Team,8.0,7.0
+21-Aug-2026,D05,Delivery Team,8.0,6.9
+21-Aug-2026,D06,Delivery Team,8.0,6.8
+24-Aug-2026,S01,CS,8.0,6.6
+24-Aug-2026,S02,CS,8.0,6.6
+24-Aug-2026,S03,CS,8.0,5.8
+24-Aug-2026,S04,CS,8.0,5.9
+24-Aug-2026,S05,CS,8.0,6.3
+24-Aug-2026,S06,CS,8.0,6.2
+24-Aug-2026,S07,CS,8.0,6.7
+24-Aug-2026,S08,CS,8.0,5.9
+24-Aug-2026,D01,Delivery Team,8.0,5.7
+24-Aug-2026,D02,Delivery Team,8.0,6.3
+24-Aug-2026,D03,Delivery Team,8.0,6.7
+24-Aug-2026,D04,Delivery Team,8.0,6.9
+24-Aug-2026,D05,Delivery Team,8.0,6.2
+24-Aug-2026,D06,Delivery Team,8.0,5.6
+25-Aug-2026,S01,CS,8.0,6.4
+25-Aug-2026,S02,CS,8.0,6.5
+25-Aug-2026,S03,CS,8.0,6.2
+25-Aug-2026,S04,CS,8.0,7.0
+25-Aug-2026,S05,CS,8.0,6.4
+25-Aug-2026,S06,CS,8.0,6.9
+25-Aug-2026,S07,CS,8.0,6.6
+25-Aug-2026,S08,CS,8.0,6.1
+25-Aug-2026,D01,Delivery Team,8.0,5.8
+25-Aug-2026,D02,Delivery Team,8.0,6.9
+25-Aug-2026,D03,Delivery Team,8.0,6.3
+25-Aug-2026,D04,Delivery Team,8.0,6.4
+25-Aug-2026,D05,Delivery Team,8.0,5.6
+25-Aug-2026,D06,Delivery Team,8.0,5.8
+26-Aug-2026,S01,CS,8.0,6.9
+26-Aug-2026,S02,CS,8.0,7.0
+26-Aug-2026,S03,CS,8.0,5.6
+26-Aug-2026,S04,CS,8.0,6.7
+26-Aug-2026,S05,CS,8.0,6.4
+26-Aug-2026,S06,CS,8.0,7.0
+26-Aug-2026,S07,CS,8.0,6.7
+26-Aug-2026,S08,CS,8.0,6.1
+26-Aug-2026,D01,Delivery Team,8.0,5.8
+26-Aug-2026,D02,Delivery Team,8.0,6.6
+26-Aug-2026,D03,Delivery Team,8.0,6.3
+26-Aug-2026,D04,Delivery Team,8.0,6.5
+26-Aug-2026,D05,Delivery Team,8.0,6.3
+26-Aug-2026,D06,Delivery Team,8.0,6.8
+27-Aug-2026,S01,CS,8.0,5.9
+27-Aug-2026,S02,CS,8.0,6.0
+27-Aug-2026,S03,CS,8.0,6.6
+27-Aug-2026,S04,CS,8.0,6.2
+27-Aug-2026,S05,CS,8.0,6.2
+27-Aug-2026,S06,CS,8.0,7.0
+27-Aug-2026,S07,CS,8.0,6.7
+27-Aug-2026,S08,CS,8.0,6.6
+27-Aug-2026,D01,Delivery Team,8.0,6.8
+27-Aug-2026,D02,Delivery Team,8.0,6.9
+27-Aug-2026,D03,Delivery Team,8.0,6.4
+27-Aug-2026,D04,Delivery Team,8.0,5.8
+27-Aug-2026,D05,Delivery Team,8.0,6.5
+27-Aug-2026,D06,Delivery Team,8.0,6.4
+28-Aug-2026,S01,CS,8.0,6.2
+28-Aug-2026,S02,CS,8.0,5.7
+28-Aug-2026,S03,CS,8.0,6.2
+28-Aug-2026,S05,CS,8.0,6.2
+28-Aug-2026,S06,CS,8.0,5.8
+28-Aug-2026,S07,CS,8.0,6.2
+28-Aug-2026,S08,CS,8.0,5.7
+28-Aug-2026,D01,Delivery Team,8.0,6.7
+28-Aug-2026,D02,Delivery Team,8.0,6.5
+28-Aug-2026,D03,Delivery Team,8.0,6.7
+28-Aug-2026,D04,Delivery Team,8.0,6.0
+28-Aug-2026,D05,Delivery Team,8.0,6.4
+28-Aug-2026,D06,Delivery Team,8.0,6.5
+31-Aug-2026,S01,CS,8.0,5.8
+31-Aug-2026,S02,CS,8.0,6.1
+31-Aug-2026,S03,CS,8.0,6.4
+31-Aug-2026,S04,CS,8.0,7.0
+31-Aug-2026,S05,CS,8.0,5.9
+31-Aug-2026,S06,CS,8.0,6.7
+31-Aug-2026,S07,CS,8.0,6.6
+31-Aug-2026,S08,CS,8.0,6.8
+31-Aug-2026,D01,Delivery Team,8.0,5.9
+31-Aug-2026,D02,Delivery Team,8.0,5.6
+31-Aug-2026,D03,Delivery Team,8.0,6.0
+31-Aug-2026,D04,Delivery Team,8.0,7.0
+31-Aug-2026,D05,Delivery Team,8.0,7.0
+31-Aug-2026,D06,Delivery Team,8.0,5.7
+01-Sep-2026,S01,CS,8.0,6.3
+01-Sep-2026,S03,CS,8.0,6.4
+01-Sep-2026,S04,CS,8.0,6.4
+01-Sep-2026,S05,CS,8.0,5.6
+01-Sep-2026,S06,CS,8.0,6.1
+01-Sep-2026,S07,CS,8.0,6.3
+01-Sep-2026,S08,CS,8.0,6.8
+01-Sep-2026,D01,Delivery Team,8.0,5.8
+01-Sep-2026,D02,Delivery Team,8.0,6.7
+01-Sep-2026,D03,Delivery Team,8.0,7.0
+01-Sep-2026,D04,Delivery Team,8.0,6.0
+01-Sep-2026,D05,Delivery Team,8.0,7.0
+02-Sep-2026,S01,CS,8.0,6.0
+02-Sep-2026,S02,CS,8.0,6.6
+02-Sep-2026,S03,CS,8.0,6.8
+02-Sep-2026,S04,CS,8.0,6.0
+02-Sep-2026,S05,CS,8.0,6.6
+02-Sep-2026,S06,CS,8.0,6.5
+02-Sep-2026,S07,CS,8.0,6.9
+02-Sep-2026,S08,CS,8.0,6.2
+02-Sep-2026,D01,Delivery Team,8.0,6.5
+02-Sep-2026,D02,Delivery Team,8.0,6.9
+02-Sep-2026,D03,Delivery Team,8.0,6.0
+02-Sep-2026,D04,Delivery Team,8.0,6.3
+02-Sep-2026,D05,Delivery Team,8.0,6.5
+02-Sep-2026,D06,Delivery Team,8.0,6.0
+03-Sep-2026,S01,CS,8.0,5.8
+03-Sep-2026,S02,CS,8.0,5.7
+03-Sep-2026,S03,CS,8.0,5.6
+03-Sep-2026,S04,CS,8.0,6.3
+03-Sep-2026,S05,CS,8.0,6.0
+03-Sep-2026,S06,CS,8.0,6.5
+03-Sep-2026,S07,CS,8.0,6.4
+03-Sep-2026,S08,CS,8.0,6.0
+03-Sep-2026,D01,Delivery Team,8.0,5.9
+03-Sep-2026,D02,Delivery Team,8.0,7.0
+03-Sep-2026,D03,Delivery Team,8.0,6.4
+03-Sep-2026,D04,Delivery Team,8.0,6.1
+03-Sep-2026,D05,Delivery Team,8.0,6.2
+03-Sep-2026,D06,Delivery Team,8.0,6.5
+04-Sep-2026,S01,CS,8.0,6.7
+04-Sep-2026,S02,CS,8.0,6.8
+04-Sep-2026,S03,CS,8.0,6.7
+04-Sep-2026,S04,CS,8.0,6.4
+04-Sep-2026,S05,CS,8.0,6.9
+04-Sep-2026,S06,CS,8.0,5.8
+04-Sep-2026,S07,CS,8.0,6.6
+04-Sep-2026,S08,CS,8.0,6.9
+04-Sep-2026,D01,Delivery Team,8.0,5.7
+04-Sep-2026,D02,Delivery Team,8.0,5.6
+04-Sep-2026,D03,Delivery Team,8.0,7.0
+04-Sep-2026,D04,Delivery Team,8.0,6.0
+04-Sep-2026,D05,Delivery Team,8.0,6.9
+04-Sep-2026,D06,Delivery Team,8.0,6.8
+07-Sep-2026,S01,CS,8.0,6.2
+07-Sep-2026,S02,CS,8.0,6.1
+07-Sep-2026,S04,CS,8.0,6.1
+07-Sep-2026,S05,CS,8.0,6.7
+07-Sep-2026,S06,CS,8.0,6.6
+07-Sep-2026,S07,CS,8.0,6.0
+07-Sep-2026,D02,Delivery Team,8.0,5.6
+07-Sep-2026,D03,Delivery Team,8.0,6.1
+07-Sep-2026,D04,Delivery Team,8.0,6.4
+07-Sep-2026,D05,Delivery Team,8.0,5.9
+07-Sep-2026,D06,Delivery Team,8.0,6.7
+08-Sep-2026,S01,CS,8.0,6.6
+08-Sep-2026,S02,CS,8.0,6.6
+08-Sep-2026,S03,CS,8.0,5.6
+08-Sep-2026,S04,CS,8.0,5.9
+08-Sep-2026,S05,CS,8.0,6.9
+08-Sep-2026,S06,CS,8.0,6.3
+08-Sep-2026,S07,CS,8.0,5.8
+08-Sep-2026,S08,CS,8.0,5.8
+08-Sep-2026,D01,Delivery Team,8.0,6.9
+08-Sep-2026,D02,Delivery Team,8.0,5.9
+08-Sep-2026,D03,Delivery Team,8.0,6.6
+08-Sep-2026,D04,Delivery Team,8.0,6.9
+08-Sep-2026,D05,Delivery Team,8.0,6.7
+08-Sep-2026,D06,Delivery Team,8.0,5.7
+09-Sep-2026,S01,CS,8.0,6.5
+09-Sep-2026,S02,CS,8.0,5.8
+09-Sep-2026,S03,CS,8.0,6.2
+09-Sep-2026,S04,CS,8.0,6.8
+09-Sep-2026,S05,CS,8.0,5.7
+09-Sep-2026,S06,CS,8.0,7.0
+09-Sep-2026,S07,CS,8.0,6.4
+09-Sep-2026,S08,CS,8.0,6.7
+09-Sep-2026,D01,Delivery Team,8.0,6.2
+09-Sep-2026,D03,Delivery Team,8.0,6.7
+09-Sep-2026,D04,Delivery Team,8.0,5.6
+09-Sep-2026,D05,Delivery Team,8.0,6.5
+09-Sep-2026,D06,Delivery Team,8.0,5.9
+10-Sep-2026,S01,CS,8.0,6.1
+10-Sep-2026,S02,CS,8.0,6.1
+10-Sep-2026,S03,CS,8.0,7.0
+10-Sep-2026,S04,CS,8.0,6.0
+10-Sep-2026,S05,CS,8.0,6.9
+10-Sep-2026,S06,CS,8.0,5.7
+10-Sep-2026,S07,CS,8.0,6.6
+10-Sep-2026,S08,CS,8.0,7.0
+10-Sep-2026,D01,Delivery Team,8.0,6.0
+10-Sep-2026,D02,Delivery Team,8.0,6.5
+10-Sep-2026,D03,Delivery Team,8.0,5.6
+10-Sep-2026,D04,Delivery Team,8.0,5.7
+10-Sep-2026,D05,Delivery Team,8.0,6.9
+10-Sep-2026,D06,Delivery Team,8.0,6.3
+11-Sep-2026,S01,CS,8.0,6.7
+11-Sep-2026,S02,CS,8.0,6.2
+11-Sep-2026,S03,CS,8.0,6.0
+11-Sep-2026,S04,CS,8.0,5.7
+11-Sep-2026,S05,CS,8.0,6.9
+11-Sep-2026,S06,CS,8.0,5.9
+11-Sep-2026,S07,CS,8.0,6.8
+11-Sep-2026,S08,CS,8.0,6.2
+11-Sep-2026,D01,Delivery Team,8.0,6.5
+11-Sep-2026,D02,Delivery Team,8.0,6.4
+11-Sep-2026,D03,Delivery Team,8.0,6.0
+11-Sep-2026,D04,Delivery Team,8.0,6.8
+11-Sep-2026,D05,Delivery Team,8.0,6.3
+11-Sep-2026,D06,Delivery Team,8.0,6.9
+14-Sep-2026,S01,CS,8.0,5.9
+14-Sep-2026,S02,CS,8.0,6.4
+14-Sep-2026,S03,CS,8.0,7.0
+14-Sep-2026,S05,CS,8.0,6.5
+14-Sep-2026,S06,CS,8.0,6.3
+14-Sep-2026,S07,CS,8.0,7.0
+14-Sep-2026,S08,CS,8.0,6.9
+14-Sep-2026,D01,Delivery Team,8.0,6.1
+14-Sep-2026,D02,Delivery Team,8.0,6.6
+14-Sep-2026,D03,Delivery Team,8.0,6.0
+14-Sep-2026,D04,Delivery Team,8.0,6.0
+14-Sep-2026,D05,Delivery Team,8.0,6.8
+14-Sep-2026,D06,Delivery Team,8.0,6.2
+15-Sep-2026,S01,CS,8.0,6.9
+15-Sep-2026,S02,CS,8.0,5.7
+15-Sep-2026,S03,CS,8.0,6.3
+15-Sep-2026,S04,CS,8.0,6.8
+15-Sep-2026,S05,CS,8.0,6.9
+15-Sep-2026,S06,CS,8.0,6.3
+15-Sep-2026,S08,CS,8.0,6.3
+15-Sep-2026,D01,Delivery Team,8.0,5.7
+15-Sep-2026,D02,Delivery Team,8.0,6.0
+15-Sep-2026,D03,Delivery Team,8.0,6.6
+15-Sep-2026,D04,Delivery Team,8.0,7.0
+15-Sep-2026,D05,Delivery Team,8.0,6.8
+16-Sep-2026,S01,CS,8.0,6.2
+16-Sep-2026,S02,CS,8.0,6.6
+16-Sep-2026,S03,CS,8.0,6.8
+16-Sep-2026,S04,CS,8.0,7.0
+16-Sep-2026,S05,CS,8.0,7.0
+16-Sep-2026,S06,CS,8.0,5.7
+16-Sep-2026,S07,CS,8.0,6.5
+16-Sep-2026,S08,CS,8.0,6.1
+16-Sep-2026,D01,Delivery Team,8.0,6.2
+16-Sep-2026,D02,Delivery Team,8.0,7.0
+16-Sep-2026,D03,Delivery Team,8.0,6.4
+16-Sep-2026,D04,Delivery Team,8.0,6.1
+16-Sep-2026,D05,Delivery Team,8.0,6.2
+16-Sep-2026,D06,Delivery Team,8.0,6.0
+17-Sep-2026,S01,CS,8.0,6.7
+17-Sep-2026,S02,CS,8.0,5.9
+17-Sep-2026,S03,CS,8.0,7.0
+17-Sep-2026,S04,CS,8.0,6.8
+17-Sep-2026,S05,CS,8.0,6.6
+17-Sep-2026,S06,CS,8.0,5.7
+17-Sep-2026,S07,CS,8.0,6.9
+17-Sep-2026,S08,CS,8.0,6.0
+17-Sep-2026,D01,Delivery Team,8.0,6.0
+17-Sep-2026,D02,Delivery Team,8.0,6.8
+17-Sep-2026,D03,Delivery Team,8.0,6.6
+17-Sep-2026,D04,Delivery Team,8.0,6.6
+17-Sep-2026,D05,Delivery Team,8.0,6.7
+17-Sep-2026,D06,Delivery Team,8.0,5.9
+18-Sep-2026,S01,CS,8.0,7.0
+18-Sep-2026,S03,CS,8.0,5.7
+18-Sep-2026,S04,CS,8.0,6.1
+18-Sep-2026,S05,CS,8.0,6.1
+18-Sep-2026,S06,CS,8.0,6.9
+18-Sep-2026,S07,CS,8.0,6.0
+18-Sep-2026,S08,CS,8.0,6.6
+18-Sep-2026,D01,Delivery Team,8.0,5.6
+18-Sep-2026,D02,Delivery Team,8.0,6.8
+18-Sep-2026,D03,Delivery Team,8.0,6.8
+18-Sep-2026,D04,Delivery Team,8.0,5.8
+18-Sep-2026,D05,Delivery Team,8.0,5.9
+21-Sep-2026,S01,CS,8.0,6.5
+21-Sep-2026,S02,CS,8.0,6.9
+21-Sep-2026,S03,CS,8.0,6.2
+21-Sep-2026,S04,CS,8.0,6.1
+21-Sep-2026,S05,CS,8.0,6.7
+21-Sep-2026,S06,CS,8.0,6.3
+21-Sep-2026,S07,CS,8.0,6.2
+21-Sep-2026,S08,CS,8.0,6.2
+21-Sep-2026,D01,Delivery Team,8.0,7.0
+21-Sep-2026,D02,Delivery Team,8.0,6.2
+21-Sep-2026,D03,Delivery Team,8.0,5.7
+21-Sep-2026,D04,Delivery Team,8.0,6.2
+21-Sep-2026,D05,Delivery Team,8.0,5.6
+21-Sep-2026,D06,Delivery Team,8.0,6.9
+22-Sep-2026,S01,CS,8.0,6.6
+22-Sep-2026,S02,CS,8.0,6.5
+22-Sep-2026,S03,CS,8.0,6.5
+22-Sep-2026,S04,CS,8.0,5.6
+22-Sep-2026,S05,CS,8.0,6.2
+22-Sep-2026,S06,CS,8.0,6.6
+22-Sep-2026,S07,CS,8.0,6.3
+22-Sep-2026,S08,CS,8.0,6.3
+22-Sep-2026,D01,Delivery Team,8.0,6.6
+22-Sep-2026,D02,Delivery Team,8.0,6.0
+22-Sep-2026,D03,Delivery Team,8.0,6.9
+22-Sep-2026,D04,Delivery Team,8.0,6.3
+22-Sep-2026,D05,Delivery Team,8.0,6.1
+22-Sep-2026,D06,Delivery Team,8.0,5.7
+23-Sep-2026,S01,CS,8.0,5.9
+23-Sep-2026,S02,CS,8.0,6.0
+23-Sep-2026,S03,CS,8.0,5.9
+23-Sep-2026,S04,CS,8.0,5.8
+23-Sep-2026,S05,CS,8.0,6.6
+23-Sep-2026,S06,CS,8.0,6.5
+23-Sep-2026,S07,CS,8.0,5.9
+23-Sep-2026,S08,CS,8.0,6.1
+23-Sep-2026,D01,Delivery Team,8.0,6.7
+23-Sep-2026,D02,Delivery Team,8.0,6.7
+23-Sep-2026,D03,Delivery Team,8.0,6.6
+23-Sep-2026,D04,Delivery Team,8.0,5.9
+23-Sep-2026,D05,Delivery Team,8.0,6.4
+23-Sep-2026,D06,Delivery Team,8.0,7.0
+24-Sep-2026,S01,CS,8.0,5.7
+24-Sep-2026,S02,CS,8.0,6.9
+24-Sep-2026,S03,CS,8.0,5.7
+24-Sep-2026,S05,CS,8.0,6.8
+24-Sep-2026,S06,CS,8.0,6.0
+24-Sep-2026,S07,CS,8.0,6.8
+24-Sep-2026,S08,CS,8.0,5.7
+24-Sep-2026,D02,Delivery Team,8.0,6.2
+24-Sep-2026,D03,Delivery Team,8.0,5.7
+24-Sep-2026,D04,Delivery Team,8.0,7.0
+24-Sep-2026,D05,Delivery Team,8.0,6.7
+24-Sep-2026,D06,Delivery Team,8.0,6.8
+25-Sep-2026,S01,CS,8.0,6.9
+25-Sep-2026,S02,CS,8.0,6.2
+25-Sep-2026,S03,CS,8.0,6.8
+25-Sep-2026,S04,CS,8.0,6.4
+25-Sep-2026,S05,CS,8.0,6.7
+25-Sep-2026,S06,CS,8.0,6.3
+25-Sep-2026,S07,CS,8.0,6.6
+25-Sep-2026,S08,CS,8.0,6.2
+25-Sep-2026,D01,Delivery Team,8.0,5.9
+25-Sep-2026,D02,Delivery Team,8.0,6.2
+25-Sep-2026,D04,Delivery Team,8.0,5.7
+25-Sep-2026,D05,Delivery Team,8.0,5.8
+25-Sep-2026,D06,Delivery Team,8.0,5.9
+28-Sep-2026,S01,CS,8.0,7.0
+28-Sep-2026,S02,CS,8.0,6.1
+28-Sep-2026,S03,CS,8.0,6.0
+28-Sep-2026,S04,CS,8.0,6.2
+28-Sep-2026,S05,CS,8.0,5.8
+28-Sep-2026,S06,CS,8.0,6.5
+28-Sep-2026,S07,CS,8.0,6.5
+28-Sep-2026,S08,CS,8.0,6.7
+28-Sep-2026,D01,Delivery Team,8.0,6.1
+28-Sep-2026,D02,Delivery Team,8.0,5.6
+28-Sep-2026,D04,Delivery Team,8.0,6.6
+28-Sep-2026,D05,Delivery Team,8.0,6.7
+28-Sep-2026,D06,Delivery Team,8.0,6.7
+29-Sep-2026,S02,CS,8.0,6.2
+29-Sep-2026,S03,CS,8.0,5.9
+29-Sep-2026,S04,CS,8.0,6.5
+29-Sep-2026,S05,CS,8.0,6.0
+29-Sep-2026,S06,CS,8.0,6.1
+29-Sep-2026,S07,CS,8.0,5.8
+29-Sep-2026,S08,CS,8.0,6.5
+29-Sep-2026,D01,Delivery Team,8.0,6.9
+29-Sep-2026,D02,Delivery Team,8.0,6.6
+29-Sep-2026,D03,Delivery Team,8.0,6.9
+29-Sep-2026,D04,Delivery Team,8.0,6.5
+29-Sep-2026,D05,Delivery Team,8.0,6.1
+29-Sep-2026,D06,Delivery Team,8.0,6.2
+30-Sep-2026,S01,CS,8.0,5.9
+30-Sep-2026,S03,CS,8.0,5.8
+30-Sep-2026,S04,CS,8.0,5.7
+30-Sep-2026,S05,CS,8.0,7.0
+30-Sep-2026,S06,CS,8.0,5.7
+30-Sep-2026,S07,CS,8.0,5.8
+30-Sep-2026,S08,CS,8.0,5.9
+30-Sep-2026,D01,Delivery Team,8.0,6.8
+30-Sep-2026,D02,Delivery Team,8.0,6.4
+30-Sep-2026,D03,Delivery Team,8.0,6.2
+30-Sep-2026,D04,Delivery Team,8.0,6.5
+30-Sep-2026,D05,Delivery Team,8.0,6.6
+30-Sep-2026,D06,Delivery Team,8.0,6.3
+01-Oct-2026,S01,CS,8.0,6.2
+01-Oct-2026,S02,CS,8.0,6.6
+01-Oct-2026,S03,CS,8.0,5.9
+01-Oct-2026,S04,CS,8.0,6.8
+01-Oct-2026,S05,CS,8.0,6.4
+01-Oct-2026,S06,CS,8.0,5.9
+01-Oct-2026,S07,CS,8.0,7.0
+01-Oct-2026,S08,CS,8.0,6.2
+01-Oct-2026,D01,Delivery Team,8.0,6.9
+01-Oct-2026,D02,Delivery Team,8.0,6.2
+01-Oct-2026,D03,Delivery Team,8.0,5.7
+01-Oct-2026,D04,Delivery Team,8.0,6.1
+01-Oct-2026,D05,Delivery Team,8.0,6.1
+01-Oct-2026,D06,Delivery Team,8.0,6.1
+02-Oct-2026,S01,CS,8.0,6.9
+02-Oct-2026,S02,CS,8.0,7.0
+02-Oct-2026,S04,CS,8.0,5.6
+02-Oct-2026,S05,CS,8.0,6.3
+02-Oct-2026,S06,CS,8.0,6.1
+02-Oct-2026,S07,CS,8.0,6.4
+02-Oct-2026,S08,CS,8.0,6.9
+02-Oct-2026,D01,Delivery Team,8.0,6.8
+02-Oct-2026,D02,Delivery Team,8.0,6.4
+02-Oct-2026,D03,Delivery Team,8.0,7.0
+02-Oct-2026,D04,Delivery Team,8.0,6.1
+02-Oct-2026,D05,Delivery Team,8.0,6.2
+02-Oct-2026,D06,Delivery Team,8.0,6.6
+05-Oct-2026,S01,CS,8.0,6.1
+05-Oct-2026,S02,CS,8.0,6.9
+05-Oct-2026,S03,CS,8.0,5.7
+05-Oct-2026,S04,CS,8.0,5.7
+05-Oct-2026,S05,CS,8.0,6.3
+05-Oct-2026,S06,CS,8.0,6.3
+05-Oct-2026,S07,CS,8.0,6.5
+05-Oct-2026,S08,CS,8.0,6.7
+05-Oct-2026,D01,Delivery Team,8.0,6.2
+05-Oct-2026,D02,Delivery Team,8.0,5.7
+05-Oct-2026,D03,Delivery Team,8.0,6.7
+05-Oct-2026,D04,Delivery Team,8.0,7.0
+05-Oct-2026,D05,Delivery Team,8.0,6.9
+06-Oct-2026,S01,CS,8.0,6.2
+06-Oct-2026,S02,CS,8.0,5.7
+06-Oct-2026,S03,CS,8.0,6.4
+06-Oct-2026,S04,CS,8.0,6.9
+06-Oct-2026,S05,CS,8.0,6.8
+06-Oct-2026,S06,CS,8.0,6.0
+06-Oct-2026,S07,CS,8.0,6.8
+06-Oct-2026,S08,CS,8.0,5.6
+06-Oct-2026,D01,Delivery Team,8.0,6.7
+06-Oct-2026,D02,Delivery Team,8.0,5.7
+06-Oct-2026,D03,Delivery Team,8.0,5.8
+06-Oct-2026,D04,Delivery Team,8.0,6.7
+06-Oct-2026,D05,Delivery Team,8.0,6.1
+06-Oct-2026,D06,Delivery Team,8.0,6.1
+07-Oct-2026,S01,CS,8.0,7.0
+07-Oct-2026,S02,CS,8.0,6.2
+07-Oct-2026,S03,CS,8.0,6.7
+07-Oct-2026,S04,CS,8.0,6.1
+07-Oct-2026,S05,CS,8.0,6.9
+07-Oct-2026,S06,CS,8.0,6.4
+07-Oct-2026,S07,CS,8.0,6.6
+07-Oct-2026,S08,CS,8.0,5.7
+07-Oct-2026,D01,Delivery Team,8.0,5.9
+07-Oct-2026,D02,Delivery Team,8.0,5.9
+07-Oct-2026,D03,Delivery Team,8.0,5.8
+07-Oct-2026,D04,Delivery Team,8.0,6.8
+07-Oct-2026,D05,Delivery Team,8.0,6.9
+07-Oct-2026,D06,Delivery Team,8.0,6.1
+08-Oct-2026,S01,CS,8.0,5.7
+08-Oct-2026,S02,CS,8.0,6.6
+08-Oct-2026,S03,CS,8.0,5.8
+08-Oct-2026,S04,CS,8.0,6.9
+08-Oct-2026,S05,CS,8.0,6.3
+08-Oct-2026,S06,CS,8.0,6.8
+08-Oct-2026,S07,CS,8.0,5.9
+08-Oct-2026,S08,CS,8.0,6.2
+08-Oct-2026,D01,Delivery Team,8.0,5.6
+08-Oct-2026,D02,Delivery Team,8.0,5.7
+08-Oct-2026,D03,Delivery Team,8.0,6.8
+08-Oct-2026,D05,Delivery Team,8.0,6.2
+08-Oct-2026,D06,Delivery Team,8.0,6.4
+09-Oct-2026,S01,CS,8.0,5.7
+09-Oct-2026,S02,CS,8.0,6.2
+09-Oct-2026,S03,CS,8.0,6.8
+09-Oct-2026,S04,CS,8.0,6.3
+09-Oct-2026,S05,CS,8.0,5.8
+09-Oct-2026,S06,CS,8.0,6.4
+09-Oct-2026,S07,CS,8.0,6.7
+09-Oct-2026,S08,CS,8.0,5.9
+09-Oct-2026,D01,Delivery Team,8.0,6.4
+09-Oct-2026,D02,Delivery Team,8.0,5.6
+09-Oct-2026,D03,Delivery Team,8.0,6.4
+09-Oct-2026,D04,Delivery Team,8.0,6.0
+09-Oct-2026,D05,Delivery Team,8.0,6.7
+09-Oct-2026,D06,Delivery Team,8.0,6.0
+12-Oct-2026,S01,CS,8.0,7.0
+12-Oct-2026,S02,CS,8.0,6.5
+12-Oct-2026,S03,CS,8.0,6.1
+12-Oct-2026,S05,CS,8.0,6.4
+12-Oct-2026,S07,CS,8.0,6.9
+12-Oct-2026,S08,CS,8.0,6.9
+12-Oct-2026,D01,Delivery Team,8.0,6.4
+12-Oct-2026,D02,Delivery Team,8.0,7.0
+12-Oct-2026,D03,Delivery Team,8.0,6.5
+12-Oct-2026,D04,Delivery Team,8.0,5.8
+12-Oct-2026,D05,Delivery Team,8.0,6.2
+12-Oct-2026,D06,Delivery Team,8.0,6.7
+13-Oct-2026,S01,CS,8.0,6.1
+13-Oct-2026,S03,CS,8.0,6.8
+13-Oct-2026,S04,CS,8.0,6.0
+13-Oct-2026,S05,CS,8.0,5.9
+13-Oct-2026,S06,CS,8.0,6.4
+13-Oct-2026,S07,CS,8.0,6.2
+13-Oct-2026,S08,CS,8.0,6.0
+13-Oct-2026,D01,Delivery Team,8.0,5.9
+13-Oct-2026,D02,Delivery Team,8.0,7.0
+13-Oct-2026,D03,Delivery Team,8.0,6.5
+13-Oct-2026,D04,Delivery Team,8.0,6.7
+13-Oct-2026,D05,Delivery Team,8.0,6.5
+13-Oct-2026,D06,Delivery Team,8.0,6.4
+14-Oct-2026,S01,CS,8.0,6.0
+14-Oct-2026,S02,CS,8.0,6.8
+14-Oct-2026,S03,CS,8.0,7.0
+14-Oct-2026,S04,CS,8.0,6.9
+14-Oct-2026,S05,CS,8.0,5.9
+14-Oct-2026,S06,CS,8.0,7.0
+14-Oct-2026,S07,CS,8.0,5.7
+14-Oct-2026,S08,CS,8.0,6.2
+14-Oct-2026,D01,Delivery Team,8.0,5.8
+14-Oct-2026,D02,Delivery Team,8.0,5.9
+14-Oct-2026,D03,Delivery Team,8.0,6.6
+14-Oct-2026,D04,Delivery Team,8.0,6.0
+14-Oct-2026,D05,Delivery Team,8.0,6.8
+14-Oct-2026,D06,Delivery Team,8.0,6.6
+15-Oct-2026,S01,CS,8.0,5.8
+15-Oct-2026,S02,CS,8.0,6.3
+15-Oct-2026,S03,CS,8.0,5.6
+15-Oct-2026,S04,CS,8.0,5.9
+15-Oct-2026,S05,CS,8.0,7.0
+15-Oct-2026,S06,CS,8.0,6.6
+15-Oct-2026,S07,CS,8.0,6.2
+15-Oct-2026,S08,CS,8.0,5.8
+15-Oct-2026,D01,Delivery Team,8.0,6.6
+15-Oct-2026,D02,Delivery Team,8.0,5.8
+15-Oct-2026,D03,Delivery Team,8.0,6.1
+15-Oct-2026,D04,Delivery Team,8.0,6.3
+15-Oct-2026,D05,Delivery Team,8.0,6.0
+15-Oct-2026,D06,Delivery Team,8.0,6.0
+16-Oct-2026,S01,CS,8.0,6.9
+16-Oct-2026,S02,CS,8.0,6.2
+16-Oct-2026,S03,CS,8.0,6.2
+16-Oct-2026,S04,CS,8.0,6.4
+16-Oct-2026,S05,CS,8.0,6.0
+16-Oct-2026,S06,CS,8.0,6.7
+16-Oct-2026,S07,CS,8.0,6.3
+16-Oct-2026,S08,CS,8.0,6.1
+16-Oct-2026,D01,Delivery Team,8.0,5.8
+16-Oct-2026,D02,Delivery Team,8.0,6.9
+16-Oct-2026,D03,Delivery Team,8.0,6.0
+16-Oct-2026,D04,Delivery Team,8.0,5.9
+16-Oct-2026,D05,Delivery Team,8.0,6.2
+16-Oct-2026,D06,Delivery Team,8.0,6.9
+19-Oct-2026,S01,CS,8.0,6.3
+19-Oct-2026,S02,CS,8.0,6.0
+19-Oct-2026,S03,CS,8.0,5.8
+19-Oct-2026,S04,CS,8.0,6.2
+19-Oct-2026,S05,CS,8.0,5.9
+19-Oct-2026,S06,CS,8.0,6.3
+19-Oct-2026,S07,CS,8.0,6.9
+19-Oct-2026,S08,CS,8.0,6.1
+19-Oct-2026,D01,Delivery Team,8.0,6.7
+19-Oct-2026,D02,Delivery Team,8.0,7.0
+19-Oct-2026,D03,Delivery Team,8.0,6.0
+19-Oct-2026,D04,Delivery Team,8.0,6.4
+19-Oct-2026,D05,Delivery Team,8.0,6.7
+19-Oct-2026,D06,Delivery Team,8.0,6.3
+20-Oct-2026,S01,CS,8.0,6.6
+20-Oct-2026,S02,CS,8.0,6.2
+20-Oct-2026,S03,CS,8.0,6.1
+20-Oct-2026,S04,CS,8.0,6.0
+20-Oct-2026,S05,CS,8.0,5.7
+20-Oct-2026,S06,CS,8.0,5.8
+20-Oct-2026,S07,CS,8.0,5.9
+20-Oct-2026,S08,CS,8.0,6.0
+20-Oct-2026,D01,Delivery Team,8.0,5.8
+20-Oct-2026,D02,Delivery Team,8.0,6.4
+20-Oct-2026,D03,Delivery Team,8.0,6.0
+20-Oct-2026,D04,Delivery Team,8.0,5.8
+20-Oct-2026,D05,Delivery Team,8.0,6.2
+20-Oct-2026,D06,Delivery Team,8.0,6.0
+21-Oct-2026,S01,CS,8.0,6.8
+21-Oct-2026,S02,CS,8.0,6.0
+21-Oct-2026,S03,CS,8.0,5.9
+21-Oct-2026,S04,CS,8.0,6.7
+21-Oct-2026,S05,CS,8.0,5.8
+21-Oct-2026,S06,CS,8.0,6.0
+21-Oct-2026,S07,CS,8.0,5.7
+21-Oct-2026,D01,Delivery Team,8.0,7.0
+21-Oct-2026,D02,Delivery Team,8.0,6.0
+21-Oct-2026,D03,Delivery Team,8.0,6.0
+21-Oct-2026,D04,Delivery Team,8.0,6.2
+21-Oct-2026,D05,Delivery Team,8.0,5.7
+21-Oct-2026,D06,Delivery Team,8.0,6.7
+22-Oct-2026,S01,CS,8.0,6.3
+22-Oct-2026,S02,CS,8.0,5.8
+22-Oct-2026,S03,CS,8.0,6.1
+22-Oct-2026,S04,CS,8.0,7.0
+22-Oct-2026,S05,CS,8.0,6.6
+22-Oct-2026,S06,CS,8.0,5.7
+22-Oct-2026,S07,CS,8.0,6.7
+22-Oct-2026,S08,CS,8.0,6.7
+22-Oct-2026,D01,Delivery Team,8.0,6.8
+22-Oct-2026,D02,Delivery Team,8.0,5.7
+22-Oct-2026,D03,Delivery Team,8.0,5.8
+22-Oct-2026,D04,Delivery Team,8.0,6.4
+22-Oct-2026,D05,Delivery Team,8.0,6.9
+22-Oct-2026,D06,Delivery Team,8.0,6.6
+23-Oct-2026,S01,CS,8.0,6.3
+23-Oct-2026,S02,CS,8.0,5.9
+23-Oct-2026,S03,CS,8.0,5.9
+23-Oct-2026,S04,CS,8.0,6.8
+23-Oct-2026,S05,CS,8.0,6.4
+23-Oct-2026,S06,CS,8.0,5.6
+23-Oct-2026,S07,CS,8.0,6.5
+23-Oct-2026,S08,CS,8.0,6.6
+23-Oct-2026,D01,Delivery Team,8.0,6.6
+23-Oct-2026,D02,Delivery Team,8.0,5.8
+23-Oct-2026,D03,Delivery Team,8.0,6.3
+23-Oct-2026,D04,Delivery Team,8.0,6.5
+23-Oct-2026,D05,Delivery Team,8.0,6.6
+23-Oct-2026,D06,Delivery Team,8.0,6.8
